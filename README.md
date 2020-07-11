@@ -9,6 +9,6 @@ This is a project developed as part of `30daysofkotlin` challenge by Google Deve
 ---
 
 -  Use `git clone`  or **Extract as zip** to reuse the project.
-![Certificate](/libs/certificate.png)
+![Certificate](/certificate.png)
 
 
